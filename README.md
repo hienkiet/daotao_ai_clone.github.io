@@ -2,8 +2,8 @@
 
 
 ## Getting Startted
-Project made with aim : develop more features modules for main web : " https://study.soict.ai/dashboard "
-Made for IT3402 - SOICT - HUST
+- Project made with aim : develop more features modules for main web : " https://study.soict.ai/dashboard "
+- Made for IT3402 - SOICT - HUST
 
 ## How to run
 
